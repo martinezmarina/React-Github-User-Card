@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+.card{
+  display: flex;
+  border: 1px solid black;
+}
+.followersCard{
+  display: flex;
+  justify-content: space-around;
+}
+img {
+  width: 150px;
+  height: 150px;
+}
